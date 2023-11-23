@@ -1,6 +1,6 @@
 ## Description
 
-run the hehicle.sql script in mysql workbench before proceeding with the application
+run the vehicle.sql  script ,present in scripts folder, in mysql workbench before proceeding with the application
 
 ## Installation
 
